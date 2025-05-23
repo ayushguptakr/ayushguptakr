@@ -2,7 +2,8 @@
 🔭 I’m currently working on an e-commerce platform using React.js.<br>👯 I’m looking to collaborate on open-source web development projects and innovative startup ideas.<br>🤝 I’m looking for help with optimizing performance in React applications and backend integration.<br>🌱 I’m currently learning advanced state management, API handling, and backend technologies.<br>💬 Ask me about React, JavaScript, web development, and cricket!<br>
 
 ### 🌐 Portfolio
-[![Visit my portfolio](portfoliodevayush.vercel.app)]
+[Visit my portfolio](https://portfoliodevayush.vercel.app)
+
 
 
 
