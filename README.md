@@ -1,6 +1,10 @@
 # 💫 About Me:
 🔭 I’m currently working on an e-commerce platform using React.js.<br>👯 I’m looking to collaborate on open-source web development projects and innovative startup ideas.<br>🤝 I’m looking for help with optimizing performance in React applications and backend integration.<br>🌱 I’m currently learning advanced state management, API handling, and backend technologies.<br>💬 Ask me about React, JavaScript, web development, and cricket!<br>
 
+### 🌐 Portfolio
+[Visit my portfolio](portfoliodevayush.vercel.app)
+
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100010023196051) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayush_gupta_xo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayush-gupta22/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Ayush21845287) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushguptakr144@gmail.com) 
